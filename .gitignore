@@ -1,0 +1,9 @@
+bin/
+*.class
+.settings/
+desktop.ini
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
